@@ -22,8 +22,8 @@ Currently, he is a senior developer at 3Maps.
 
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/static/v1?label&logo=electron&message=ElectronJS&style=for-the-badge&logoColor=blue)
-![](https://img.shields.io/static/v1?label&logo=three.js&message=THREE.js&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/static/v1?label&logo=electron&message=ElectronJS&style=for-the-badge&color=blue&logoColor=white)
+![](https://img.shields.io/static/v1?label&logo=three.js&message=THREE.js&style=for-the-badge&logoColor=white&color=red)
 ![](https://img.shields.io/static/v1?label&logo=rethink&message=ReThinkDB&style=for-the-badge&color=#d1e1e5)
 ![](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
