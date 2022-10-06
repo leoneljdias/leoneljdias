@@ -19,3 +19,6 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_EDITORS: true
+          SHOW_PROFILE_VIEWS: true
