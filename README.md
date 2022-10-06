@@ -7,6 +7,5 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: https://linktr.ee/leoneljdias
 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
