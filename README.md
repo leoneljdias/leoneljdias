@@ -19,3 +19,5 @@ Batchfile        17 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://komarev.com/ghpvc/?username=leoneljdias&color=blue&style=flat-square)
