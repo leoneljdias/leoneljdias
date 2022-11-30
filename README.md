@@ -2,7 +2,7 @@
 
 ### I'm a software/web developer!
 - 🔭 I’m currently working on Location-Based Web App
-- 🌱 I’m currently learning Laravel with Vue.js + NodeJS
+- 🌱 I’m currently learning Laravel, Vue.js + NodeJS
 - 👯 I’m looking to collaborate with other researchers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: https://linktr.ee/leoneljdias
