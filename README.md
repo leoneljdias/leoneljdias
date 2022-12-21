@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 18 December 2022
+From: 28 September 2022 - To: 19 December 2022
 
-Total Time: 210 hrs 31 mins
+Total Time: 214 hrs 53 mins
 
-Vue.js           137 hrs 31 mins >>>>>>>>>>>>>>>>---------   65.33 %
-JavaScript       41 hrs 10 mins  >>>>>--------------------   19.56 %
-PHP              15 hrs          >>-----------------------   07.13 %
-JSON             5 hrs 29 mins   >------------------------   02.61 %
-YAML             2 hrs 22 mins   -------------------------   01.13 %
-HTML             2 hrs           -------------------------   00.96 %
+Vue.js           138 hrs 47 mins >>>>>>>>>>>>>>>>---------   64.59 %
+JavaScript       43 hrs 50 mins  >>>>>--------------------   20.40 %
+PHP              15 hrs          >>-----------------------   06.98 %
+JSON             5 hrs 42 mins   >------------------------   02.65 %
+YAML             2 hrs 30 mins   -------------------------   01.17 %
+HTML             2 hrs           -------------------------   00.94 %
 ```
 
 <!--END_SECTION:waka-->
