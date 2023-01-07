@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 04 January 2023
+From: 28 September 2022 - To: 05 January 2023
 
-Total Time: 256 hrs 59 mins
+Total Time: 259 hrs 4 mins
 
-Vue.js                     168 hrs 1 min   >>>>>>>>>>>>>>>>---------   65.38 %
-JavaScript                 51 hrs 47 mins  >>>>>--------------------   20.15 %
-PHP                        17 hrs 16 mins  >>-----------------------   06.72 %
-JSON                       6 hrs 20 mins   >------------------------   02.46 %
-YAML                       2 hrs 54 mins   -------------------------   01.13 %
-Bash                       2 hrs 13 mins   -------------------------   00.87 %
+Vue.js                     168 hrs 26 mins >>>>>>>>>>>>>>>>---------   65.02 %
+JavaScript                 51 hrs 48 mins  >>>>>--------------------   20.00 %
+PHP                        18 hrs 28 mins  >>-----------------------   07.13 %
+JSON                       6 hrs 20 mins   >------------------------   02.44 %
+YAML                       3 hrs 1 min     -------------------------   01.17 %
+Bash                       2 hrs 13 mins   -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
