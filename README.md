@@ -1,6 +1,6 @@
 # Hello, I'm Leonel! 👋
 
-## Software Developer 💻 | Creator of Geoglify 🗺️
+## Software Developer
 
 - 🔭 Currently shaping Location-Based Web Apps / Maps at [3Maps](https://3maps.io/)
 - 💼 Software Developer specialized in Geo Technologies
