@@ -10,6 +10,7 @@ I'm always learning technologies like Laravel, Vue.js, Nuxt.js, PostgreSQL, Mong
 
 In my free time, I enjoy swimming, taking long walks, exploring beaches, cruising, playing PS5 games, experimenting with cooking, and watching the latest series, documentaries, and movies.
 
-You can connect with me on [Twitter](https://twitter.com/leoneljdias), [Instagram](https://www.instagram.com/leoneljdias/), [LinkedIn](https://www.linkedin.com/in/leoneljdias), and [Facebook](https://www.facebook.com/leoneljdias) for updates. Feel free to email me anytime at [leoneljdias@gmail.com](mailto:leoneljdias@gmail.com).
+You can connect with me on [Twitter](https://twitter.com/leoneljdias), [Instagram](https://www.instagram.com/leoneljdias/), [LinkedIn](https://www.linkedin.com/in/leoneljdias), and [Facebook](https://www.facebook.com/leoneljdias) for updates. 
+Feel free to email me anytime at [leoneljdias@gmail.com](mailto:leoneljdias@gmail.com).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=leoneljdias&color=blue&style=flat-square)
