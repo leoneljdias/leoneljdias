@@ -1,6 +1,6 @@
 # Hi! I'm Leonel Dias
 
-I am a software engineer who loves making great web experiences. I focus on web mapping, GIS, and spatial technologies to improve smart port solutions. Currently, I am working on Location-Based Web Apps at 3Maps. I have worked on projects like 3Maps, 3Shorex, 3NavPlanning, and 3Park, always trying to push the limits of what is possible.
+I’m a software engineer who loves creating great web experiences. I work with web mapping, Geographic Information Systems (GIS), and spatial technologies. My main goal is to improve smart port solutions. I enjoy solving problems and finding new ways to use technology to make things better. I’m always excited to take on new challenges and work on projects that make a difference.
 
 I created [Geoglify](https://geoglify.com/) to find creative ways to show geographic data. Geoglify is not just a project—it's a journey into exploring new ideas in geospatial technology. I am always learning new technologies like Laravel, Vue.js, Nuxt.js, Node.js, PostgreSQL, MongoDB, DeckGL, Leaflet, MapTalks, MapLibre, and more. I love learning and keep adding new tools to my skills.
 
