@@ -186,3 +186,8 @@ div#terminal {
 * {
     font-family: "Fira Code", "Roboto Mono", "Courier New", Courier, monospace !important;
 }
+
+.codicon 
+{
+  font: normal normal normal 16px/1 codicon !important;
+}
