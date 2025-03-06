@@ -1,4 +1,4 @@
-# Leonel Dias - Software Developer & Project Manager
+# Leonel Dias
 
 With over ten years of experience in software development, including research at INESC, I’ve had the opportunity to work on diverse web and software applications at **3Maps**, across sectors like Municipalities, Regional Governments, and Ports. 
 
