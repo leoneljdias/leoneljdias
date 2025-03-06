@@ -1,7 +1,5 @@
-# About Me  
+# Leonel Dias - Software Developer & Project Manager
 
-**I'm a software engineer.** I’m the creator of **Geoglify**, a side project where I experiment with innovative ideas and test solutions for logistics and mapping. It’s my playground for creativity, where I turn concepts into practical applications using **Laravel**, **Vue.js**, **PostgreSQL**, and **MapLibre**.
+With over ten years of experience in software development, including research at INESC, I’ve had the opportunity to work on diverse web and software applications at **3Maps**, across sectors like Municipalities, Regional Governments, and Ports. 
 
-I'm building the future of digital web solutions to make port logistics smarter, focusing on geospatial technology and streamlined operations at **Port of Leixões**.
-
-Outside of work, I enjoy **swimming**, **cooking**, playing **PlayStation**, watching **documentaries**, and exploring quiet **parks** and **beaches**. I’m always on the lookout for inspiration in the simplest things.
+Currently, at **APDL**, I am focused on creating and managing digital and web solutions that drive efficiency and innovation at the **Ports of Leixões**, **Viana**, and **Douro**. My background in **Informatics Engineering** from **FEUP** enables me to lead projects that not only meet but exceed expectations.
