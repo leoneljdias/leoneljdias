@@ -1,4 +1,4 @@
-#Hey, I'm Leonel Dias!
+Hey, I'm Leonel Dias!
 
 I was born in a small town in north of Portugal and have always been fascinated by maps and technology. I enjoy solving real-world problems using web tools and geotechnology.
 
