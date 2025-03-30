@@ -1,5 +1,7 @@
-# Leonel Dias
+#Hey, I'm Leonel Dias!
 
-With over ten years of experience in software development, including research at INESC, I’ve had the opportunity to work on diverse web and software applications at **3Maps**, across sectors like Municipalities, Regional Governments, and Ports. 
+I was born in a small town in north of Portugal and have always been fascinated by maps and technology. I enjoy solving real-world problems using web tools and geotechnology.
 
-Currently, at **APDL**, I am focused on creating and managing digital and web solutions that drive efficiency and innovation at the **Ports of Leixões**, **Viana**, and **Douro**. My background in **Informatics Engineering** from **FEUP** enables me to lead projects that not only meet but exceed expectations.
+Right now, I’m leading projects at APDL (Port Administration of Douro, Leixões, and Viana do Castelo), where we make port management smarter and more efficient. My work is a mix of software development and project management, always focused on finding simple solutions for complex challenges.
+
+I also believe in open-source and the power of communities to create real impact.
